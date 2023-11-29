@@ -19,7 +19,7 @@ const ToggleSwitch = () => {
           width: 250,
           height: 55,
           borderRadius: 25,
-          backgroundColor: '#ccc',
+          backgroundColor: "gray",
           padding: 5,
         }}
         circleStyle={{
